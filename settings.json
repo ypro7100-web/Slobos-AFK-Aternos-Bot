@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "FrDragon42_badwars.aternos.me",
     "port": 61322,
-    "version": "",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
